@@ -1,12 +1,12 @@
 # Hi there, I'm Mohammad Aleshtari 👋
 
-## 🚀 Front-End Developer | JavaScript | React | Next.js | TypeScript | Web3.js
+## 🚀 Front-End Developer | JavaScript | React | Next.js | TypeScript
 
 ---
 
 ### 💫 About Me
 - 🔥 Passionate about **Front-End Development** and **JavaScript**.
-- 🧑‍💻 Currently working on improving my skills with **React**, **Next.js**, **Vue**, and **Web3.js**.
+- 🧑‍💻 Currently working on improving my skills with **React**, **Next.js**, **Vue**.
 - 🌱 Always learning and experimenting with new technologies and frameworks.
 - 📝 I love building innovative and user-friendly web applications.
 
@@ -22,7 +22,7 @@
 - **Libraries/Frameworks:** React, Next.js, Vue.js, Redux, TailwindCSS, Bootstrap
 - **Tools:** Webpack, NPM, Git, GitHub, Postman, Vite, GraphQL
 - **Databases:** MongoDB, Firebase
-- **Other:** Node.js, Express.js, Web3.js, Figma
+- **Other:** Node.js, Express.js, Figma
 
 ---
 
