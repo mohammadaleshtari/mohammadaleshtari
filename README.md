@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammad Aleshtari 👋
 
-## 🚀 Front-End Developer | Html | Css | Tailwind | Bootstrap | Javascript | React |
+## 🚀 Front-End Developer | HTML | CSS | JavaScript | React | Tailwind | Bootstrap | Sass | LESS | Git |
 
 ---
 
